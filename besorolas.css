@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+    
+}
+
+table{
+    text-align: center;
+    width: 500;
+    margin-right: auto;
+    margin-left: auto;
+    border-spacing: 6;
+    border-radius: 6;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h2{
+    background-color: crimson;
+    color: white;
+}
