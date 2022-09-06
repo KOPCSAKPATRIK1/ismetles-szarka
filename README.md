@@ -1,4 +1,4 @@
-# [Név]
+# Kopcsak Patrik
 
 
 ## Hogyan kezdj neki?
